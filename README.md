@@ -18,7 +18,7 @@ The application provides the following features:
 ## Installation
 
 1. Clone the repository:
-git clone <repository-url>
+git clone https://github.com/gokul1101/api-rate-limiting.git
 
 2. Install dependencies:
 go mod tidy
